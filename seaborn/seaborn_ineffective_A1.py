@@ -52,5 +52,4 @@ g.map_dataframe(sns.scatterplot,
   ax=plt.gca()
 )
 
-plt.savefig("seaborn_ineffective_A1.png")
 plt.show()

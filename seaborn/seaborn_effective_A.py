@@ -52,5 +52,4 @@ g.map_dataframe(sns.scatterplot,
   ax=plt.gca()
 )
 
-plt.savefig("seaborn_effective_A.png")
 plt.show()
